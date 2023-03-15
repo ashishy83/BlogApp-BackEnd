@@ -26,4 +26,4 @@ app.listen(CONSTANTS.PORT,()=>{
 });
 
 
-
+module.exports = app;
